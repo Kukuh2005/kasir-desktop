@@ -1,0 +1,11 @@
+D:\kasir.exe
+D:\kasir.dll
+D:\kasir.deps.json
+D:\kasir.runtimeconfig.json
+D:\kasir.pdb
+D:\System.Data.SqlClient.dll
+D:\runtimes\win-arm64\native\sni.dll
+D:\runtimes\win-x64\native\sni.dll
+D:\runtimes\win-x86\native\sni.dll
+D:\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

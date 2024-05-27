@@ -1,0 +1,11 @@
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\kasir.exe
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\kasir.dll
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\kasir.deps.json
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\kasir.runtimeconfig.json
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\kasir.pdb
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\System.Data.SqlClient.dll
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\app\desktop\kasir\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
